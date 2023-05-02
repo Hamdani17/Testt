@@ -13,27 +13,27 @@
     "env": {
         "API_ID": {
             "description": "ايبي ايدي",
-            "value": "20809128",
+            "value": "",
             "required": true
         },
         "API_HASH": {
             "description": "ايبي هاش",
-            "value": "69c8efc67e1e5b4e696b7f98ee4d7d51",
+            "value": "",
             "required": true
         },
         "TERMUX": {
             "description": "كود تيرمكس",
-            "value": "1AZWarzMBu7Jdm_edGUUZ8vfUq1BQV0sqA2ZRuMFVYrRe9noPCJU0qVktzip4JOsAus1QeVEHVxpg3mKpy0ekSLrDbfkFSbyiqthrwuazY_wGAmhlopZDlWKYsZVfN1eRRuyDuI4hYXZXQZsigQlrZ5_YVWIOs5yfV4i5i2YOF8-fwCY_8vKP69yikmj671wPBWiO-x23cVrZAxYNQo9TZZkL8sWtbtBzYnr6OQv7fVXz3QFAj4gjNS1VMZv7ua9C6rJCiIARv4sWT6zaRz5Rfb9Edr_MH-3WSOvdcnoi-Nbf2vo5j2zKo57ecpEM7i0vvgRSEDvmdMcN1v_pXgdQ-t7t6zGuDak=",
+            "value": "",
             "required": true
         },
         "TOKEN": {
             "description": "توكن البوت",
-            "value": "6022228026:AAH4MwFk3sNno832jZ9SorCsVbHBheK2c-0",
+            "value": "",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "يوزر البوت بدون ـ@ـ",
-            "value": "Ksgkye_bot",
+            "value": "",
             "required": true
         }
     }
